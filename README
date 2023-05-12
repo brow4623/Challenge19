@@ -1,1 +1,3 @@
 The krpyto_jobs.py python file utilizes streamlit functionality to hire a FinTech professional for a specified rate and duration. 
+
+The program also uses Ganache for tester wallets and addresses in order to verify that the transactions took place on the blockchain. 
